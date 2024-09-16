@@ -93,7 +93,7 @@ class ProfileScreen extends StatelessWidget {
                   Stack(
                     children: [
                       Container(
-                        height: 150,
+                        height: 151,
                         decoration: BoxDecoration(
                           image: DecorationImage(
                             image: NetworkImage('https://via.placeholder.com/500x150'), // Background image
